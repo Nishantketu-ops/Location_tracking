@@ -41,4 +41,4 @@ The Simple Location Tracking Python Project is a basic application that empowers
 
 ## Note
 
-When working with location data and user privacy, it's crucial to adhere to legal and ethical considerations, such as obtaining user consent and protecting sensitive information. Additionally, ensure compliance with relevant privacy regulations in your project.
+When working with location data and user privacy, it's crucial to adhere to legal and ethical considerations, such as obtaining user consent and protecting sensitive information. Additionally, ensure compliance with relevant privacy regulations while using this  project.
